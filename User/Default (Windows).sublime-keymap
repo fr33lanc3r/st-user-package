@@ -1,0 +1,5 @@
+[
+{ 
+    "keys": ["ctrl+super+b"], "command": "insert_snippet", "args": {"contents": "<strong>${0:$SELECTION}</strong>"}
+}	
+]
